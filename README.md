@@ -50,7 +50,7 @@ Contact me about anything 👇
 
 </br>
 
-[Dev] 🍔 Jeil High School Meal **App** (2019.08 ~ 2019.10)
+[Dev] 🍔 Jeil High School Meal **App** (2019.09 ~ 2019.11)
 
 [Service] 🚢 AI Ship Identification **Front-End** (2021.07 ~ 2021.12)
 
