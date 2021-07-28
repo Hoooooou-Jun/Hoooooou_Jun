@@ -1,6 +1,4 @@
 <div align=center>
-  
-![header](https://capsule-render.vercel.app/api?type=rounded&color=D09E88&height=150&section=header&text=Hoooooou_Jun&fontSize=65&fontColor=FFFFFF&animation=twinkling)
 
 <div align=left>
   
@@ -57,3 +55,9 @@ Contact me about anything 👇
 [Service] 🚢 AI Ship Identification **Front-End** (2021.07 ~ 2021.12)
 
 </br>
+
+<div align=right>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHoooooou-Jun&count_bg=%230090FF&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+</div>
