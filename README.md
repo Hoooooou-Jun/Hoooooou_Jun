@@ -8,7 +8,7 @@
 
 **Hi There** 👋  
   
-I'm **Hoooooou_Jun**, Dream of **Front-End App engineer** from South-Korea
+I'm **Hoooooou_Jun**, Dream of **Front-End App engineer** from Korea
 
 Also, I like play the bass guitar, and was hoping for applied music.
   
