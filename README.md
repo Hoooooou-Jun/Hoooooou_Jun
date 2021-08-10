@@ -50,7 +50,7 @@ Contact me about anything 👇
 
 </br>
 
-[Dev] 🍔 Jeil High School Meal **App** (2018.09 ~ 2018.11) 👉 [Google Play](https://play.google.com/store/apps/details?id=com.jeilmeal.azrdev, "google play link")
+[Dev] 🍔 Jeil High School Meal **App** (2018.09 ~ 2018.11)  👉 [Google Play](https://play.google.com/store/apps/details?id=com.jeilmeal.azrdev, "google play link")
 
 [Service] 🚢 AI Ship Identification **Front-End** (2021.07 ~ 2021.12)
 
