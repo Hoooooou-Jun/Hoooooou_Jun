@@ -9,10 +9,6 @@
 **Hi There** 👋  
   
 I'm **Hoooooou_Jun**, Dream of **Front-End App engineer** from Korea
-
-Also, I like play the bass guitar, and was hoping for applied music.
-  
-You can see my playing bass from Youtube.
   
 Currently, developing a **Front-End for Ship identification.**
 
@@ -20,7 +16,6 @@ Contact me about anything 👇
 
   [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:jipkim2@gmail.com)
   <a href="https://www.instagram.com/hoooooou_jun"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hoooooou_jun"/></a>
-  <a href="https://www.youtube.com/channel/UCd1o7jMAB9ijcaBH-WkPzcw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCd1o7jMAB9ijcaBH-WkPzcw"/></a>
   
   </br>
   
