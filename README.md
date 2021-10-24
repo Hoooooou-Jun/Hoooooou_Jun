@@ -42,6 +42,7 @@ Contact me about anything 👇
   _**Framework**_
   
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Express-black?style=flat-square&logo=Express&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/React Native-20232a?style=flat-square&logo=React&logoColor=61DAFB"/></a>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>
   
