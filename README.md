@@ -67,7 +67,7 @@ Contact me about anything 👇
 
 [Dev] 🍔 Jeil High School Meal **App** (2018.09 ~ 2018.11)  👉 [Google Play](https://play.google.com/store/apps/details?id=com.jeilmeal.azrdev, "google play link")
 
-[Service] 🚢 AI Ship Identification **Front-End** (2021.07 ~ 2021.12)
+[Service] 🚢 육군 제32보병사단 선박확인체계 개발TF - AI Ship Identification **Front-End Dev** / **App Maintenance** (2021.07 ~ 2021.12)
 
 </br>
 
