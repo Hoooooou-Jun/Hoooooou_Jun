@@ -10,7 +10,7 @@
   
 **Hi There** 👋  
   
-I'm **Hoooooou_Jun**, **Front-End Developer** from Korea
+I'm **Hoooooou_Jun**, **Developer** from Korea
   
 Contact me about anything 👇
 
