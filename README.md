@@ -34,7 +34,7 @@ Contact me about anything 👇
   
   _**Language**_
   
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript&logoColor=F7DF1E"/></a>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
@@ -69,16 +69,14 @@ Contact me about anything 👇
 * 리그오브레전드 전적검색 사이트(op.gg, fow 등)를 WebView로 연결
 * Eclipse, Java 개발
 * 15,000회 이상 다운로드
-### [Dev] 🍔 제일고등학교 식단표 어플리케이션 ('2018.09 ~ '2018.11)  👉 [Google Play](https://play.google.com/store/apps/details?id=com.jeilmeal.azrdev&hl=es_VE)
 
+### [Dev] 🍔 제일고등학교 식단표 어플리케이션 ('2018.09 ~ '2018.11)  👉 [Google Play](https://play.google.com/store/apps/details?id=com.jeilmeal.azrdev&hl=es_VE)
 * #### 인천제일고등학교 과제연구 논문 (다양한 프로그램 속 함수와의 연관성) 작성 ('2018.03 ~ 2018.11)
 * #### Android Studio, Java 개발
 * #### Neis 학생서비스 기반 데이터 파싱, ListView로 출력
 
 ### [Service] 🚢 육군 제32보병사단 선박확인체계 개발TF - AI Ship Identification **Front-End Dev** / **Maintenance** ('2021.07 ~ '2021.12)
-
 * #### React Native, Django, NginX, TensorFlow(Keras), Git 중심으로 개발.
-
 * #### 계정 및 체계 관리, 선박 데이터 정제 및 학습 업무
 * #### Front-End (React Native) 부분에서 개발 및 유지보수 업무
   + ##### 초기 개발에서 잡지 못한 오류 대폭 개선 (강제 종료 및 느림 현상, 메모리 누수, 기타 오류 등)
