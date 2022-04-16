@@ -63,17 +63,19 @@ Contact me about anything 👇
   
 </div>
 
-</br>
-
 ### [Dev] 🎮 리그오브레전드 전적검색 모음 어플리케이션 ('2014.02)
-* 리그오브레전드 전적검색 사이트(op.gg, fow 등)를 WebView로 연결
-* Eclipse, Java 개발
-* 15,000회 이상 다운로드
+* #### 리그오브레전드 전적검색 사이트(op.gg, fow 등)를 WebView로 연결
+* #### Eclipse, Java 개발
+* #### 15,000회 이상 다운로드
+
+</br>
 
 ### [Dev] 🍔 제일고등학교 식단표 어플리케이션 ('2018.09 ~ '2018.11)  👉 [Google Play](https://play.google.com/store/apps/details?id=com.jeilmeal.azrdev&hl=es_VE)
 * #### 인천제일고등학교 과제연구 논문 (다양한 프로그램 속 함수와의 연관성) 작성 ('2018.03 ~ 2018.11)
 * #### Android Studio, Java 개발
 * #### Neis 학생서비스 기반 데이터 파싱, ListView로 출력
+
+</br>
 
 ### [Service] 🚢 육군 제32보병사단 선박확인체계 개발TF - AI Ship Identification **Front-End Dev** / **Maintenance** ('2021.07 ~ '2021.12)
 * #### React Native, Django, NginX, TensorFlow(Keras), Git 중심으로 개발.
