@@ -77,7 +77,7 @@ Contact me about anything 👇
 
 </br>
 
-### [Service] 🚢 육군 제32보병사단 선박확인체계 개발TF - AI Ship Identification **Front-End Dev** / **Maintenance** ('2021.07 ~ '2021.12)
+### [Service Deployment] 🚢 육군 제32보병사단 선박확인체계 개발TF - AI Ship Identification **Front-End Dev** / **Maintenance** ('2021.07 ~ '2021.12)
 * #### React Native, Django, NginX, TensorFlow(Keras), Git 중심으로 개발.
 * #### 계정 및 체계 관리, 선박 데이터 정제 및 학습 업무
 * #### Front-End (React Native) 부분에서 개발 및 유지보수 업무
