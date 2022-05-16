@@ -65,30 +65,23 @@ Contact me about anything 👇
 
 ### [Dev] 🎮 리그오브레전드 전적검색 모음 어플리케이션 ('2014.02)
 * #### 리그오브레전드 전적검색 사이트(op.gg, fow 등)를 WebView로 연결
-* #### Eclipse, Java 개발
-* #### 15,000회 이상 다운로드
+* #### Eclipse, Java로 개발
+* #### Play Store 기준 15,000회 이상 다운로드
 
 </br>
 
 ### [Dev] 🍔 제일고등학교 식단표 어플리케이션 ('2018.09 ~ '2018.11)  👉 [Google Play](https://play.google.com/store/apps/details?id=com.jeilmeal.azrdev&hl=es_VE)
-* #### 인천제일고등학교 과제연구 논문 (다양한 프로그램 속 함수와의 연관성) 작성 ('2018.03 ~ 2018.11)
-* #### Android Studio, Java 개발
+* #### 인천제일고등학교 과제연구 논문 (다양한 프로그램 속 함수와의 연관성) 작성 ('2018.03 ~ `2018.11)
+* #### Android Studio, Java로 개발
 * #### Neis 학생서비스 기반 데이터 파싱, ListView로 출력
 
 </br>
 
 ### [Service Deployment] 🚢 육군 제32보병사단 선박확인체계 개발TF - AI Ship Identification **Front-End Dev** / **Maintenance** ('2021.07 ~ '2021.12)
-* #### React Native, Django, NginX, TensorFlow(Keras), Git 중심으로 개발.
-* #### 계정 및 체계 관리, 선박 데이터 정제 및 학습 업무
-* #### Front-End (React Native) 부분에서 개발 및 유지보수 업무
-  + ##### 초기 개발에서 잡지 못한 오류 대폭 개선 (강제 종료 및 느림 현상, 메모리 누수, 기타 오류 등)
-  + ##### Redux 도입과 Class형 Component에서 Function형 Component로 리팩토링 (신버전 React, Library 대응 및 코드 모듈화, React Lifecycle 및 비동기처리 정립)
-  + ##### 지도 검색 기능 개발(Google Map 기반, 사용자 위치 및 정보 기반으로 지도 상 선박 출력)
-  + ##### Victory Native를 활용한 선박 DB 및 AI 학습 현황 통계 기능 개발
-  + ##### 개인정보 수정 기능 개발 및 사용자 확대에 따른 데이터필드 대응
-  + ##### 대대 및 지역별 AI 검색 기능 개발
-  + ##### 비밀번호 초기화 기능, 페이지 검색 기능, 라이센스 리스트 페이지 개발
-  + ##### 기타 레이아웃 수정 및 보완
+* #### React Native, Django, NginX, TensorFlow(Keras), Git 중삼으로 개발.
+* #### Front-End (React Native) 개발 및 유지보수 업무
+* #### 계정 및 체계 관리, 고객 응대, 선박 데이터 정제 및 학습 업무
+
 
 </br>
 
