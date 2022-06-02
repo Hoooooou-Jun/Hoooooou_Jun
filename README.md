@@ -10,7 +10,7 @@
   
   **안녕하세요!** 👋
   
-  한국에서 소프트웨어 를 꿈꾸는 김호준입니다.
+  한국에서 소프트웨어 엔지니어를 꿈꾸는 김호준입니다.
 
   [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:jipkim2@gmail.com)
   <a href="https://www.linkedin.com/in/%ED%98%B8%EC%A4%80-%EA%B9%80-a2302523b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/%ED%98%B8%EC%A4%80-%EA%B9%80-a2302523b/"/></a>
