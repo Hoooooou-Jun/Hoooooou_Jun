@@ -38,8 +38,6 @@
   <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=PWA&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Express-black?style=flat-square&logo=Express&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Passport-black?style=flat-square&logo=Passport&logoColor=34E27A"/></a>
   
   _**개발 환경**_
   
