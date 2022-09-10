@@ -35,8 +35,6 @@
   _**프레임워크 & 모듈**_
   
   <img src="https://img.shields.io/badge/React & React Native-20232a?style=flat-square&logo=React&logoColor=61DAFB"/></a>
-  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=PWA&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Express-black?style=flat-square&logo=Express&logoColor=white"/></a>
   
   _**개발 환경**_
