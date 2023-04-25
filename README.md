@@ -8,6 +8,8 @@
 
   대한민국에서 **컴퓨터공학과 학생**이자 **Full Stack 개발자**로 활동하고 있습니다.
   
+  현재 객체지향 / 디자인패턴에 기반한 간결하고 확장성 있는 프로그래밍과 DevOps 기술을 공부하고 있습니다.
+  
   <br>
 
   🗂 Portfolio
@@ -28,22 +30,20 @@
   _**언어**_
   
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript&logoColor=F7DF1E"/></a>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Java-d73629?style=flat-square&logo=java&logoColor=white"/></a>
   
   _**프레임워크 & 모듈**_
   
   <img src="https://img.shields.io/badge/React & React Native-20232a?style=flat-square&logo=React&logoColor=61DAFB"/></a>
   <img src="https://img.shields.io/badge/Express-black?style=flat-square&logo=Express&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a>
   
-  _**개발 환경**_
-  
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
+  _**기술**_
+ 
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=FF9900"/></a>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white"/></a>
   
 </div>
 
